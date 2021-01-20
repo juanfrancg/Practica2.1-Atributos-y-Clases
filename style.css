@@ -1,0 +1,11 @@
+p#identificador {
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+p.rojo{
+    color: red;
+}
